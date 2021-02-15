@@ -1,0 +1,1 @@
+javascript:a=prompt('mdlink','['+document.title+']('+document.location.href+')');a.preventDefault;
